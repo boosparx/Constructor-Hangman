@@ -1,0 +1,23 @@
+{
+  "name": "Constructor-Hangman",
+  "version": "1.0.0",
+  "description": "hangman",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/boosparx/Constructor-Hangman.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boosparx/Constructor-Hangman.git/issues"
+  },
+  "homepage": "https://github.com/boosparx/Constructor-Hangman.git/#readme",
+  "dependencies": {
+    "inquirer": "^3.3.0",
+    "prompt": "^1.0.0"
+  }
+}
